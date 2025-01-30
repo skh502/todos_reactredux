@@ -12,7 +12,7 @@ function App() {
 
   const changetodo = (updateid, updatetext)=>{
     setNewid(updateid) 
-    setNewinput(updatetext)
+    setNewinput(updatetext) 
   }
 
   return (
